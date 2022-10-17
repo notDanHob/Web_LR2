@@ -1,5 +1,3 @@
-from time import sleep
-
 def Newton(n=int(input('Enter n: ')),A=int(input('Enter A: '))):
     x0 = 2
     x = 1
